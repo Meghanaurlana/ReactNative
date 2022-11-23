@@ -67,3 +67,8 @@ coverage/
 
 .scannerwork
 test-report.xml
+
+package-lock.json
+package.json
+yarn.lock
+README.md
